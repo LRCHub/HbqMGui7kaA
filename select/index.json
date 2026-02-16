@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "beautiful days",
+  "base_artist": "GReeeeN",
+  "createdAt": "2026-02-16T08:10:35.732910Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "The Beautiful Days",
+      "artist": "Swans",
+      "has_synced": false,
+      "path": "select/01_The_Beautiful_Days_Swans.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "The Beautiful Days",
+      "artist": "Swans",
+      "has_synced": true,
+      "path": "select/02_The_Beautiful_Days_Swans.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Beautiful Days",
+      "artist": "OKAMOTO'S",
+      "has_synced": false,
+      "path": "select/03_Beautiful_Days_OKAMOTO'S.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "The Beautiful days〜風になれ2〜",
+      "artist": "Ayumi Nakamura",
+      "has_synced": false,
+      "path": "select/04_The_Beautiful_days〜風になれ2〜_Ayumi_Nakamura.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "BEAUTIFUL DAYS",
+      "artist": "Fantastic Plastic Machine",
+      "has_synced": false,
+      "path": "select/05_BEAUTIFUL_DAYS_Fantastic_Plastic_Machine.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "BEAUTIFUL DAYS(REPRISE)",
+      "artist": "Fantastic Plastic Machine",
+      "has_synced": false,
+      "path": "select/06_BEAUTIFUL_DAYS(REPRISE)_Fantastic_Plastic_Machine.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Beautiful Days",
+      "artist": "SPYAIR",
+      "has_synced": true,
+      "path": "select/07_Beautiful_Days_SPYAIR.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "The Beautiful Days",
+      "artist": "Swans",
+      "has_synced": true,
+      "path": "select/08_The_Beautiful_Days_Swans.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Beautiful Days",
+      "artist": "OKAMOTO'S",
+      "has_synced": true,
+      "path": "select/09_Beautiful_Days_OKAMOTO'S.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Beautiful Days",
+      "artist": "OKAMOTO'S",
+      "has_synced": true,
+      "path": "select/10_Beautiful_Days_OKAMOTO'S.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Beautiful Days",
+      "artist": "Venus",
+      "has_synced": true,
+      "path": "select/11_Beautiful_Days_Venus.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Beautiful days",
+      "artist": "ARASHI",
+      "has_synced": false,
+      "path": "select/12_Beautiful_days_ARASHI.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Beautiful days",
+      "artist": "嵐",
+      "has_synced": false,
+      "path": "select/13_Beautiful_days_嵐.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "beautiful days",
+      "artist": "GReeeeN",
+      "has_synced": false,
+      "path": "select/pl_01_beautiful_days_GReeeeN.txt"
+    }
+  ]
+}
